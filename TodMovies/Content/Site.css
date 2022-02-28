@@ -1,0 +1,64 @@
+﻿
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.field-validation-error,label.error {
+    color: red;
+}
+.input-validation-error, input.error {
+    border: 2px solid red;
+}
+.validation-summary-errors {
+    color: red;
+}
+.nav-link{
+    color:#beb7b7 !important;
+    font-weight:700;
+    font-size:20px;
+}
+.nav-link:hover {
+    color: #fff !important;
+}
+.navbar-brand {
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 25px;
+}
+.style-login > li > *{
+    text-decoration: none;
+    font-weight: bold;
+    color: #beb7b7 !important;
+    text-decoration: none;
+    margin:5px;
+    transition:all ease-in-out .15s;
+}
+.style-login > li :hover{
+      color: #fff !important;
+} 
+#movies_paginate, #customers_paginate{
+    position:absolute;
+    right:16%;
+}
+.pagination > li > a {
+    padding: 10px;
+    text-decoration: none !important;
+}
+#movies_wrapper{
+    margin-top:50px;
+}
