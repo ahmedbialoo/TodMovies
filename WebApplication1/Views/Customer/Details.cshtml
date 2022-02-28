@@ -1,0 +1,13 @@
+﻿@model WebApplication1.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div>
+    <h1>@Model.Name</h1>
+    <hr />
+    <ul>
+        <li>Membership Type : @Model.MemberShipType.Name</li>
+    </ul>
+</div>

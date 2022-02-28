@@ -1,0 +1,477 @@
+﻿++Solution 'WebApplication1' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WebApplication1.sln
+++WebApplication1
+i:{00000000-0000-0000-0000-000000000000}:WebApplication1
+++Properties
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\properties\
+++AssemblyInfo.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\properties\assemblyinfo.cs
+++serviceDependencies.json
+++serviceDependencies.local.json
+++serviceDependencies.local.json.user
+++References
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++App_Data
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_data\
+++aspnet-WebApplication1-20220120112013.mdf
+++App_Start
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_start\
+++bin
+++Content
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\
+++Controllers
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\controllers\
+++AccountController.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\controllers\accountcontroller.cs
+++HomeController.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\controllers\homecontroller.cs
+++ManageController.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\controllers\managecontroller.cs
+++fonts
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\fonts\
+++Migrations
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\
+++202201202136271_m1.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201202136271_m1.cs
+++202201202144079_add.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201202144079_add.cs
+++202201211802040_d.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201211802040_d.cs
+++Configuration.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\configuration.cs
+++obj
+++Scripts
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\
+++Views
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\
+++Account
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\
+++Home
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\home\
+++Manage
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\
+++Shared
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\shared\
+++_ViewStart.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\_viewstart.cshtml
+++Web.config
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\web.config
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\web.config
+++favicon.ico
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\favicon.ico
+++Global.asax
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\global.asax
+++packages.config
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\packages.config
+++Startup.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\startup.cs
+++Antlr3.Runtime
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++EntityFramework
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++EntityFramework.SqlServer
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.AspNet.Identity.Core
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.AspNet.Identity.Owin
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.CSharp
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Host.SystemWeb
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Security
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Security.Cookies
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Security.Google
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Security.OAuth
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Owin.Security.Twitter
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Microsoft.Web.Infrastructure
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Newtonsoft.Json
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++Owin
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.ComponentModel.DataAnnotations
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Configuration
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Core
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Data
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Data.DataSetExtensions
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Drawing
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.EnterpriseServices
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Net.Http
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Net.Http.WebRequest
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Abstractions
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.ApplicationServices
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.DynamicData
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Entity
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Extensions
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Helpers
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Mvc
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Optimization
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Razor
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Routing
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.Services
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.WebPages
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.WebPages.Deployment
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Web.WebPages.Razor
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Xml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++System.Xml.Linq
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++WebGrease
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:
+++aspnet-WebApplication1-20220120112013_log.ldf
+++BundleConfig.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_start\identityconfig.cs
+++RouteConfig.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\app_start\startup.auth.cs
+++WebApplication1.dll
+++WebApplication1.pdb
+++bootstrap-theme.css
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap.css
+++bootstrap.css.map
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap.css.map
+++bootstrap.min.css
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\bootstrap.min.css.map
+++Site.css
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\content\site.css
+++glyphicons-halflings-regular.eot
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\fonts\glyphicons-halflings-regular.woff2
+++202201202136271_m1.designer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201202136271_m1.designer.cs
+++202201202136271_m1.resx
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201202136271_m1.resx
+++202201202144079_add.designer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201202144079_add.designer.cs
+++202201202144079_add.resx
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201202144079_add.resx
+++202201211802040_d.designer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201211802040_d.designer.cs
+++202201211802040_d.resx
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201211802040_d.resx
+++Debug
+++bootstrap.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\bootstrap.js
+++bootstrap.min.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\scripts\modernizr-2.8.3.js
+++_ExternalLoginsListPartial.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\_externalloginslistpartial.cshtml
+++ConfirmEmail.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\confirmemail.cshtml
+++ExternalLoginConfirmation.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\externalloginconfirmation.cshtml
+++ExternalLoginFailure.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\externalloginfailure.cshtml
+++ForgotPassword.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\login.cshtml
+++Register.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\register.cshtml
+++ResetPassword.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\resetpasswordconfirmation.cshtml
+++SendCode.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\sendcode.cshtml
+++VerifyCode.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\account\verifycode.cshtml
+++AddPhoneNumber.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\addphonenumber.cshtml
+++ChangePassword.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\changepassword.cshtml
+++Index.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\index.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\home\index.cshtml
+++ManageLogins.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\managelogins.cshtml
+++SetPassword.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\setpassword.cshtml
+++VerifyPhoneNumber.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\manage\verifyphonenumber.cshtml
+++_Layout.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\shared\error.cshtml
+++Lockout.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\shared\lockout.cshtml
+++Global.asax.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\global.asax.cs
+++Web.Debug.config
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\web.debug.config
+++Web.Release.config
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\web.release.config
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+++Models
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\
+++AccountViewModels.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\accountviewmodels.cs
+++Customer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\customer.cs
+++IdentityModels.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\identitymodels.cs
+++ManageViewModels.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\manageviewmodels.cs
+++MemberShipType.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\membershiptype.cs
+++roslyn
+++csc.exe
+++csc.exe.config
+++csc.rsp
+++csi.exe
+++csi.exe.config
+++csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+++Microsoft.CodeAnalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+++Microsoft.CSharp.Core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+++Microsoft.Managed.Core.targets
+++Microsoft.VisualBasic.Core.targets
+++Microsoft.Win32.Primitives.dll
+++System.AppContext.dll
+++System.Collections.Immutable.dll
+++System.Console.dll
+++System.Diagnostics.DiagnosticSource.dll
+++System.Diagnostics.FileVersionInfo.dll
+++System.Diagnostics.StackTrace.dll
+++System.Globalization.Calendars.dll
+++System.IO.Compression.dll
+++System.IO.Compression.ZipFile.dll
+++System.IO.FileSystem.dll
+++System.IO.FileSystem.Primitives.dll
+++System.Net.Http.dll
+++System.Net.Sockets.dll
+++System.Reflection.Metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+++System.Security.Cryptography.Algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+++System.Security.Cryptography.Primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+++System.Text.Encoding.CodePages.dll
+++System.Threading.Tasks.Extensions.dll
+++System.ValueTuple.dll
+++System.Xml.ReaderWriter.dll
+++System.Xml.XmlDocument.dll
+++System.Xml.XPath.dll
+++System.Xml.XPath.XDocument.dll
+++vbc.exe
+++vbc.exe.config
+++vbc.rsp
+++VBCSCompiler.exe
+++VBCSCompiler.exe.config
+++Antlr3.Runtime.dll
+++Antlr3.Runtime.pdb
+++EntityFramework.dll
+++EntityFramework.SqlServer.dll
+++EntityFramework.SqlServer.xml
+++EntityFramework.xml
+++Microsoft.AspNet.Identity.Core.dll
+++Microsoft.AspNet.Identity.Core.xml
+++Microsoft.AspNet.Identity.EntityFramework.dll
+++Microsoft.AspNet.Identity.EntityFramework.xml
+++Microsoft.AspNet.Identity.Owin.dll
+++Microsoft.AspNet.Identity.Owin.xml
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+++Microsoft.Owin.dll
+++Microsoft.Owin.Host.SystemWeb.dll
+++Microsoft.Owin.Host.SystemWeb.xml
+++Microsoft.Owin.Security.Cookies.dll
+++Microsoft.Owin.Security.Cookies.xml
+++Microsoft.Owin.Security.dll
+++Microsoft.Owin.Security.Facebook.dll
+++Microsoft.Owin.Security.Facebook.xml
+++Microsoft.Owin.Security.Google.dll
+++Microsoft.Owin.Security.Google.xml
+++Microsoft.Owin.Security.MicrosoftAccount.dll
+++Microsoft.Owin.Security.MicrosoftAccount.xml
+++Microsoft.Owin.Security.OAuth.dll
+++Microsoft.Owin.Security.OAuth.xml
+++Microsoft.Owin.Security.Twitter.dll
+++Microsoft.Owin.Security.Twitter.xml
+++Microsoft.Owin.Security.xml
+++Microsoft.Owin.xml
+++Microsoft.Web.Infrastructure.dll
+++Newtonsoft.Json.dll
+++Newtonsoft.Json.xml
+++Owin.dll
+++System.Web.Helpers.dll
+++System.Web.Helpers.xml
+++System.Web.Mvc.dll
+++System.Web.Mvc.xml
+++System.Web.Optimization.dll
+++System.Web.Optimization.xml
+++System.Web.Razor.dll
+++System.Web.Razor.xml
+++System.Web.WebPages.Deployment.dll
+++System.Web.WebPages.Deployment.xml
+++System.Web.WebPages.dll
+++System.Web.WebPages.Razor.dll
+++System.Web.WebPages.Razor.xml
+++System.Web.WebPages.xml
+++WebApplication1.dll.config
+++WebGrease.dll
+++TempPE
+++DesignTimeResolveAssemblyReferencesInput.cache
+++WebApplication1.csproj.AssemblyReference.cache
+++WebApplication1.csproj.CopyComplete
+++WebApplication1.csproj.CoreCompileInputs.cache
+++WebApplication1.csproj.FileListAbsolute.txt
+++WebApplication1.csproj.GenerateResource.cache
+++WebApplication1.Migrations.add.resources
+++WebApplication1.Migrations.d.resources
+++WebApplication1.Migrations.m1.resources
+++About.cshtml
+++Contact.cshtml
+++NewFolder1
+++Release
+++202201211825047_d1.cs
+++202201211825047_d1.designer.cs
+++202201211825047_d1.resx
+++_Header.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\shared\_header.cshtml
+++Details.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\home\details.cshtml
+++202201211947048_addNameMembership.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201211947048_addnamemembership.cs
+++202201211947048_addNameMembership.designer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201211947048_addnamemembership.designer.cs
+++202201211947048_addNameMembership.resx
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201211947048_addnamemembership.resx
+++202201211950026_naming.cs
+++202201211950026_naming.designer.cs
+++202201211950026_naming.resx
+++Movie.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\movie.cs
+++Genre.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\models\genre.cs
+++202201212016143_movie.cs
+++202201212016143_movie.designer.cs
+++202201212016143_movie.resx
+++202201212019551_movie.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201212019551_movie.cs
+++202201212019551_movie.designer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201212019551_movie.designer.cs
+++202201212019551_movie.resx
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201212019551_movie.resx
+++Movies
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\movies\
+++MoviesController.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\controllers\moviescontroller.cs
+++MovieDetails.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\movies\moviedetails.cshtml
+++MovieIndex.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\movies\movieindex.cshtml
+++NewCustomer.cshtml
+++New.cshtml
+++ViewModels
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\viewmodels\
+++NewCustomerViewModel.cs
+++202201212140027_d1.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201212140027_d1.cs
+++202201212140027_d1.designer.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201212140027_d1.designer.cs
+++202201212140027_d1.resx
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\migrations\202201212140027_d1.resx
+++CustomerForm.cshtml
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\views\home\customerform.cshtml
+++CustomerViewModel.cs
+i:{c43d935e-7851-4d6c-b545-c311b974868a}:c:\users\adel mostafa\desktop\webapplication1\webapplication1\viewmodels\customerviewmodel.cs

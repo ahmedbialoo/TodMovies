@@ -1,0 +1,16 @@
+﻿@model WebApplication1.Models.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div>
+    <h1>@Model.Name</h1>
+    <hr />
+    <ul>
+        <li>Genre : @Model.Genre.Name</li>
+        <li>Release Date : @Model.ReleaseTime</li>
+        <li>Date Added: @Model.DateAddded</li>
+        <li>Number in Stock: @Model.NumberInStock</li>
+    </ul>
+</div>
